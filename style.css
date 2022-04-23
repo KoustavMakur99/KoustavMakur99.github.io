@@ -746,7 +746,7 @@ img{
 
 }
 .footer_heart{
-    color: red;
+    color: rgba(209, 35, 35, 0.664);
     font-size: 25px;
     align-items: center;
 }
